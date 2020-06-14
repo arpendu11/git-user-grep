@@ -10,7 +10,7 @@ A UI Project using Webpack and ReactJs to. This project allows you to search thr
 - Font File Loader
 - Dev Server with Hot Reloading
 - API Proxy Support
-- ESLINt included
+- EsLint included
 
 # How to use it
 - `yarn install`

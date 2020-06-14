@@ -1,2 +1,1 @@
-/search*    /index.html  200
-# /    /index.html   200
+/search?code=* /search 200

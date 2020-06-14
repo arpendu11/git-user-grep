@@ -9,6 +9,10 @@
     "prod": "npm run build",
     "build": "webpack --mode production && echo '/* /index.html  200' | cat >dist/_redirects "
   },
+  "engines": {
+    "npm": "6.10.0",
+    "node": "12.7.0"
+  },
   "type": "modules",
   "keywords": [],
   "author": "",

@@ -10,10 +10,10 @@
     "prod": "npm run build",
     "build": "webpack --mode production"
   },
-  "engines": {
-    "npm": "6.10.0",
-    "node": "12.7.0"
-  },
+  // "engines": {
+  //  "npm": "6.10.0",
+  //  "node": "12.7.0"
+  // },
   "type": "modules",
   "keywords": [],
   "author": "",

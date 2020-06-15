@@ -1,5 +1,8 @@
 # git-grep-user
-A UI Project using Webpack and ReactJs to. This project allows you to search through GitHub APIsand fetch the users. 
+A UI Project using Webpack and ReactJs to. This project allows you to search through GitHub APIsand fetch the users.
+You can access the app using [Netlify App](https://upbeat-noether-c24f4f.netlify.app/)
+
+Note: Redirection as callback URL from GitHub OAuth app causing error. I will fix that.
 
 # What's Included
 - Babel Loader

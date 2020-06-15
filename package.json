@@ -8,7 +8,7 @@
     "heroku": "webpack-dev-server --mode development --open",
     "open:client": "webpack-dev-server --mode development --open",
     "prod": "npm run build",
-    "build": "webpack --mode production && echo '/* /index.html  200' | cat >dist/_redirects "
+    "build": "webpack --mode production"
   },
   "engines": {
     "npm": "6.10.0",
